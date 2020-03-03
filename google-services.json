@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "92014167875",
+    "firebase_url": "https://bible-c66ff.firebaseio.com",
+    "project_id": "bible-c66ff",
+    "storage_bucket": "bible-c66ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92014167875:android:4aaad95498f506b07111f6",
+        "android_client_info": {
+          "package_name": "com.bara.lifebible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92014167875-npqald7dn0qljg15fb2pispthmc6i4cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrbWdFquWRnE1TyjkCAJzAvBQUb1kzeBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92014167875-npqald7dn0qljg15fb2pispthmc6i4cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

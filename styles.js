@@ -1,0 +1,51 @@
+//87%=DE 60%=99 38%=61
+const LIGHT = {
+  name: "light",
+  primary: "#6200ee",
+  primaryVariant: "#3700b3",
+  secondary: "#018786",
+  background: "#e9e9e9",
+  surface: "#ffffff",
+  error: "#b00020",
+  onPrimary: "#ffffff",
+  onSecondary: "#000000",
+  onBackground: "#000000",
+  onSurface: "#000000",
+  onError: "#ffffff",
+  barBackground: "#f9f9f9",
+  textPrimary: "#262626",
+  headerStyle: "#F9F9F9",
+  blackColor: "#262626",
+  greyColor: "#F9F9F9",
+  darkGreyColor: "#999",
+  lightGreyColor: "#c7c7c7",
+  redColor: "#ED4956",
+  blueColor: "#3897f0",
+  darkBlueColor: "#003569"
+};
+
+const DARK = {
+  name: "dark",
+  primary: "#bb86fc",
+  primaryVariant: "#3700b3",
+  secondary: "#03dac6",
+  background: "#121212",
+  surface: "#121212",
+  error: "#cf6679",
+  onPrimary: "#000000",
+  onSecondary: "#000000",
+  onBackground: "#ffffff",
+  onSurface: "#ffffff",
+  barBackground: "#1f1f1f",
+  onError: "#000000",
+  textPrimary: "#F9F9F9",
+  headerStyle: "#262626",
+  blackColor: "#262626",
+  greyColor: "#F9F9F9",
+  darkGreyColor: "#999",
+  lightGreyColor: "#c7c7c7",
+  redColor: "#ED4956",
+  blueColor: "#3897f0",
+  darkBlueColor: "#003569"
+};
+export default { LIGHT, DARK };
